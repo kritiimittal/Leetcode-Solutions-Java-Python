@@ -19,6 +19,7 @@ class Solution {
     }
 }
 
+
 //Soultion-2(Optimized)
 import java.util.*;
 
